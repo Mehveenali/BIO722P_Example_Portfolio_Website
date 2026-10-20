@@ -1,22 +1,26 @@
-# My Personal Portfolio Website 
+# My Personal Portfolio 
 
 -------
 
-![Placeholder portrait](./img/Placeholder.png)
+![Placeholder portrait](./img/Github.JPG)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+I am an MSc Bioinformatics student at Queen Mary University of London with a background in biological sciences. I am developing my skills in Python, genomic data analysis, statistics, and computational biology. I am interested in using programming and data analysis to understand biological systems and solve scientific problems.
 
 
-## Experience 
+## Experience
 
 | Role | Organisation | Dates | Example contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+| Hospitality Team Member | Stint | October 2021 - May 2022 | Worked across hospitality venues including Vapiano, Ivy Asia and Sexy Fish, supporting front-of-house service and bar operations. |
+| Private Tutor | MyTutor | May 2023 – August 2024 | Tutored Biology, Chemistry and Mathematics to GCSE and A-Level students, helping them develop their subject knowledge. |
+| Student Ambassador | King's College London | October 2024 – October 2025 | Supported student engagement and university activities. |
 
 ## Education 
 
-| Degree | Institution | Dates | 
+| Degree | Institution | Dates |
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| MSc Bioinformatics | Queen Mary University of London | 2026–2027 |
+| MSc Biomedical and Molecular Sciences Research (Merit) | King's College London | 2024–2025 |
+| BSc (Hons) Biochemistry (2:1) | King's College London | 2019–2022 |
+
+[GitHub](https://github.com/Mehveenali) · [LinkedIn](https://www.linkedin.com/in/mehveenali/)
